@@ -6,4 +6,4 @@
  ###### This shows options for entering the roll number and uploading photo
 
 ![Screenshot (313)](https://user-images.githubusercontent.com/89925659/208649976-c31f0a56-bd2a-48c0-b2b0-afa61a8019c9.png)
- ###### After entering roll number, click on submit roll number and after upload photo, click submit
+ ###### After entering roll number, click on submit roll number and after upload photo, click submit to display typing speed on dashboard
